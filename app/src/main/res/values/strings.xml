@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">OpenWeatherMap</string>
+
+    // Permission
+    <string name="go_to_settings">Go to settings</string>
+    <string name="permission_denied">Allow OpenWeatherMap to access your device\'s location</string>
+
+    //Server Error
+    <string name="error_default_title">Oops, something went wrong</string>
+    <string name="error_default_message">Please try again later</string>
+    <string name="error_default_button">OK</string>
+
+    <string name="error_auth_title">Session expired</string>
+    <string name="error_auth_message">Please log in again</string>
+    <string name="error_auth_button">OK</string>
+
+    <string name="error_no_internet_title">Internet connection Error</string>
+    <string name="error_no_internet_message">Internet connection was lost</string>
+    <string name="error_no_internet_button">Try again</string>
+
+    <string name="error_unchecked">Error occurred</string>
+
+    // Weather
+    <string name="weather_image">Weather Image</string>
+
+    // Location
+    <string name="location_title">We can\'t get your location</string>
+    <string name="location_message">In order to show your forecast, we ask you to get your device location.\n\nClick here to enable it.</string>
+    <string name="location_ok">OK</string>
+
+    // Average Temp
+    <string name="average_temp">℃ %d</string>
+</resources>
